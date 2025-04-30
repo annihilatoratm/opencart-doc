@@ -10,7 +10,16 @@
 
   2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
    
-  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width=50% height=50%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width=50% height=50%>
+   
+
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width=50% height=50%>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width=50% height=50%>
+     </div>
+</div>
 
   ## Payment Flow
 
