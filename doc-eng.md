@@ -9,41 +9,23 @@
   <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png" width=50% height=50%>
 
   2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
-   
-   
+  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width=50% height=50%/> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width=50% height=50%/>
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width="200"/>
-     </div>
-</div>
 
   ## Payment Flow
 
   1. Go to the needed section of products (e.g. Phones & PDAs). Choone an item and press on *Add to Cart* button.
-Solarized dark                                                                           |  Solarized Ocean                                                                         |                       Solarized Ocean          
-:---------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:
-<img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-1-upd.png" width=50% height=50%>  |  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-2.png" width=50% height=50%> |  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-3.png" width=50% height=50%>
+  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-1-upd.png" width=50% height=50%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-2.png" width=50% height=50%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-3.png" width=50% height=50%>
   
+  2. Once the item is added to the cart, the pop-up with success message will be displayed. Press on *Shopping cart* button and chose *View cart* option to see all items added to the cart or *Checkout* to go to Checkout page directly.
+  ![opencart-4-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-4.png) ![opencart-4-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-5.png) ![opencart-6-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-6.png)
   
-  
-
-  3. Once the item is added to the cart, the pop-up with success message will be displayed. Press on *Shopping cart* button and chose *View cart* option to see all items added to the cart or *Checkout* to go to Checkout page directly.
-  ![opencart-4-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-4.png)
-  ![opencart-4-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-5.png)
-  ![opencart-6-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-6.png)
-
-  4. On the **Checkout** page all required *Shipping Address* parameters must be filled. Also *Shipping Method* and *Payment Method* have to be set. On the **Payment method options** pop-up screen choose **Payment system PaynetEasy** payment method. Once all required parameters were set, click on *Place Order* button.
-  ![opencart-7-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-7.png)
-  ![opencart-9-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-9.png)
-  ![opencart-8-2-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-8-2-upd.png)
-  ![opencart-10-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-10.png)
+  3. On the **Checkout** page all required *Shipping Address* parameters must be filled. Also *Shipping Method* and *Payment Method* have to be set. On the **Payment method options** pop-up screen choose **Payment system PaynetEasy** payment method. Once all required parameters were set, click on *Place Order* button.
+  ![opencart-7-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-7.png) ![opencart-9-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-9.png)
+  ![opencart-8-2-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-8-2-upd.png) ![opencart-10-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-10.png)
   ![opencart-11-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-11.png)
 
-  5. On **Payneteasy Payment Form** all Creadit Card information must be set. Once done, press on *Process payment* button. Wait for finish of the payment. 
+  4. On **Payneteasy Payment Form** all Creadit Card information must be set. Once done, press on *Process payment* button. Wait for finish of the payment. 
   ![opencart-12-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-12.png)
   ![opencart-13-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-13.png)
   ![opencart-14-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-14.png)
