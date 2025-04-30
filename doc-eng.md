@@ -6,14 +6,11 @@
   ## User registration
   
   1. Click on *My Account* button at the top of the main panel. In the drop-down menu select **Register** option and follow to the User Registration page.
-  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png" width=60% height=60%>
+  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png" width=50% height=50%>
 
   2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
    
-  <p float="left">
-  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width=60% height=60%>
-  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width=60% height=60%>
-  </p>
+  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png" width=50% height=50%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png" width=50% height=50%>
 
   ## Payment Flow
 
