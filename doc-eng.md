@@ -1,7 +1,7 @@
 # UX Documentation Version 1
 
-[Opencart User registration](https://pages.github.com/).
-[Opencart User registration](https://pages.github.com/).
+[User registration](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#user-registration)
+[Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow)
 
   ## User registration
   
