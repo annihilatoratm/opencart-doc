@@ -7,7 +7,7 @@
   
   1. Click on *My Account* button at the top of the main panel. In the drop-down menu select **Register** option and follow to the User Registration page.
 
-  <img src="../images/opencart-register-1.png" width=60% height=60%>
+  <img src="/images/opencart-register-1.png" width=60% height=60%>
 
   2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
 
