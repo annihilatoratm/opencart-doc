@@ -7,8 +7,9 @@
   
   1. Click on *My Account* button at the top of the main panel. In the drop-down menu select **Register** option and follow to the User Registration page.
   ![opencart-register-1.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png)
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png)" width="150" height="280">
 
-  2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
+  3. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
   ![opencart-register-2.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-2.png)
   ![opencart-register-3.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-3.png)
 
