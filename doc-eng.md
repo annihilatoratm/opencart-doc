@@ -7,7 +7,7 @@
   
   1. Click on *My Account* button at the top of the main panel. In the drop-down menu select **Register** option and follow to the User Registration page.
 
-  <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-register-1.png" width=60% height=60%>
+  <img src="../images/opencart-register-1.png" width=60% height=60%>
 
   2. On the **Register Account** page please fill all necessary Personal details, Password, aggree to the Privacy Policy and click *Continue* button.
 
@@ -16,11 +16,11 @@
 
   ## Payment Flow
 
-  1. Go to the needed section of products (e.g. Phones & PDAs). Choone an item and press on *Add to Cart* button.
+  1. Go to the needed section of products (e.g. Phones & PDAs). Choose an item and press on *Add to Cart* button.
 
   <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-1-upd.png" width=60% height=60%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-2.png" width=60% height=60%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-3.png" width=60% height=60%>
   
-  2. Once the item is added to the cart, the pop-up with success message will be displayed. Press on *Shopping cart* button and chose *View cart* option to see all items added to the cart or *Checkout* to go to Checkout page directly.
+  2. Once the item is added to the cart, the pop-up with success message will be displayed. Press on *Shopping cart* button and choose *View cart* option to see all items added to the cart or *Checkout* to go to Checkout page directly.
 
   <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-4.png" width=60% height=60%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-5.png" width=60% height=60%> <img src="https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-6.png" width=60% height=60%>
   
