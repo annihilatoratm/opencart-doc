@@ -1,7 +1,5 @@
-# UX Documentation Version 1
-
-1. [User registration](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#user-registration)
-2. [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow)
+# [User registration](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#user-registration)
+# [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow)
 
   ## User registration
   
