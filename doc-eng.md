@@ -15,9 +15,9 @@
   ## Payment Flow
 
   1. Go to the needed section of products (e.g. Phones & PDAs). Choone an item and press on *Add to Cart* button.
-Solarized dark             |  Solarized Ocean          |  Solarized Ocean          
-:-------------------------:|:-------------------------:|:-------------------------:
-![opencart-1-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-1-upd.png)  |  ![opencart-2-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-2-upd.png) |  ![opencart-3-upd.png](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-3-upd.png)
+Solarized dark                                                                           |  Solarized Ocean                                                                         |                       Solarized Ocean          
+:---------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:
+![](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-1-upd.png)  |  ![](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-2-upd.png) |  ![](https://github.com/annihilatoratm/opencart-doc/blob/main/images/opencart-3-upd.png)
   
   
   
