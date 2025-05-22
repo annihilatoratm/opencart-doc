@@ -1,5 +1,5 @@
 # [User registration](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#user-registration)
-# [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow)
+# [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow-1)
 
   ## User registration
   
