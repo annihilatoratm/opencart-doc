@@ -1,4 +1,4 @@
-# [Plugin Handle](https://github.com/annihilatoratm/prestashop-doc/tree/main?tab=readme-ov-file#prestashop-16-module-for-payneteasy-payment-gateway)
+# [Plugin Handle](https://github.com/annihilatoratm/opencart-doc/blob/main/README.md#plugin-for-opencart-1x-for-pay-by-payneteasy)
 # [User registration](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#user-registration)
 # [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow-1)
 
