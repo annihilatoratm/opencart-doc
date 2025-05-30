@@ -44,11 +44,8 @@
 
 #### Plugin configuration
 
-1. Open OpenCart administration panel
-2. Go to payment modules section
-    1. Choose "Extensions" section
-    2. Choose "Payments"
-    3. Choose the module and press "Install" button
+1. Open OpenCart administration panel -> Choose "Extensions" section -> Choose "Installer"
+2. Choose the module and press "Install" button
 
 3. Switch to configuration mode
 
