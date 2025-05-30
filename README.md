@@ -29,7 +29,7 @@
 
 ### <a name="get_package"></a> Получение пакета с плагином
 
-#### Package buil
+#### Package build
 1. [Install the composer](http://getcomposer.org/doc/00-intro.md)
 2. Clone the repository with the plugin: `composer create-project payneteasy/php-plugin-opencart --stability=dev --prefer-dist`
 3. Go to the plugin directory: `cd php-plugin-opencart`
@@ -48,20 +48,15 @@
 2. Go to payment modules section
     1. Choose "Extensions" section
     2. Choose "Payments"
+    3. Choose the module and press "Install" button
 
-    ![go to payment modules](img/go_to_payment_modules.png)
-2. Installing of PaynetEasy module
-    1. Choose the module and press "Install" button
-
-    ![install module](img/install_module.png)
 3. Switch to configuration mode
 
-    ![go to edit form](img/go_to_edit_form.png)
+
 4. Edit mode
     1. Fill the form
     2. Save
 
-    ![edit config](img/edit_config.png)
 
 
 #### Plugin deletion
