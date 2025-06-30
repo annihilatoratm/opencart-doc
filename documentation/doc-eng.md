@@ -51,18 +51,18 @@
 5.2. Go to Extensions → Installer.  
 5.3. Locate the plugin and click the **Install** button.  
 5.4. Switch to configuration mode.  
-5.5. Edit the module:  
-    * Fill in the required fields in the form
-    * Click **Save**
+5.5. Edit the module:
+ * Fill in the required fields in the form
+ * Click **Save**
 
 ## 6. Plugin Uninstallation
 
 ### 6.1. Remove via Admin Panel
 
 6.1.1. Log in to the OpenCart Admin Panel.  
-6.1.2. Navigate to the payment modules section:  
-    * Extensions → Installer
-6.1.3. Locate the plugin and click **Uninstall**.  
+6.1.2. Navigate to the payment modules section:   
+ * Extensions (1) → Installer (2)
+6.1.3. Locate the plugin and click **Uninstall** (3).  
 
 <img src="/images/opencart-delete-1.png" width=60% height=60%>
 
@@ -107,10 +107,10 @@ Remove the following files manually:
 <img src="/images/opencart-4.png" width=60% height=60%> <img src="/images/opencart-5.png" width=60% height=60%> <img src="/images/opencart-6.png" width=60% height=60%>
   
 8.3. On the _Checkout_ page:  
-   * Fill in the required _Shipping Address_.
-   * Choose a _Shipping Method_ and a _Payment Method_.
-   * In the Payment Method Options pop-up, select the _PaynetEasy payment method_.
-   * Click **Place Order** to continue.
+ * Fill in the required _Shipping Address_.
+ * Choose a _Shipping Method_ and a _Payment Method_.
+ * In the Payment Method Options pop-up, select the _PaynetEasy payment method_.
+ * Click **Place Order** to continue.
 
 <img src="/images/opencart-7.png" width=60% height=60%> <img src="/images/opencart-9.png" width=60% height=60%>
 <img src="/images/opencart-8-2.png" width=60% height=60%> <img src="/images/opencart-10.png" width=60% height=60%>
