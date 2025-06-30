@@ -17,7 +17,7 @@
 
 ## 2. Functionality
 
-[merchant PaynetEasy API](http://wiki.payneteasy.com/index.php/PnE:Merchant_API).
+[Connecting Party PaynetEasy API](http://wiki.payneteasy.com/index.php/PnE:Merchant_API).
 - [ ] [Sale Transactions](http://wiki.payneteasy.com/index.php/PnE:Sale_Transactions)
 - [ ] [Preauth/Capture Transactions](http://wiki.payneteasy.com/index.php/PnE:Preauth/Capture_Transactions)
 - [ ] [Transfer Transactions](http://wiki.payneteasy.com/index.php/PnE:Transfer_Transactions)
