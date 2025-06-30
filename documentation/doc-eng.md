@@ -11,9 +11,9 @@
 
 ## 1. Requirements
 
-* PHP version: 5.3 – 5.5
-* [Curl extension](http://php.net/manual/en/book.curl.php).
-* [OpenCart](http://www.opencart.com/index.php?route=download/download) 1.x (the plugin was tested with version 1.5).
+* PHP version: 5.3 – 5.5  
+* [Curl extension](http://php.net/manual/en/book.curl.php).  
+* [OpenCart](http://www.opencart.com/index.php?route=download/download) 1.x (the plugin was tested with version 1.5).  
 
 ## 2. Functionality
 
@@ -35,23 +35,23 @@
 
 ## 3. Package Build
 
-3.1. [Install the composer](http://getcomposer.org/doc/00-intro.md).\n
-3.2. Clone the plugin repository: `composer create-project payneteasy/php-plugin-opencart --stability=dev --prefer-dist`.
-3.3. Navigate to the plugin directory: `cd php-plugin-opencart`.
-3.4. Build the plugin archive: `composer archive --format=zip`.
+3.1. [Install the composer](http://getcomposer.org/doc/00-intro.md).  
+3.2. Clone the plugin repository: `composer create-project payneteasy/php-plugin-opencart --stability=dev --prefer-dist`.  
+3.3. Navigate to the plugin directory: `cd php-plugin-opencart`.  
+3.4. Build the plugin archive: `composer archive --format=zip`.  
 
 ## 4. Installation
-
-4.1. [Download the plugin package](#get_package).
-4.2. Extract the contents of the archive into your OpenCart root directory.
+ 
+4.1. [Download the plugin package](#get_package).  
+4.2. Extract the contents of the archive into your OpenCart root directory.  
 
 ## 5. Plugin Configuration
 
-5.1. Log in to the OpenCart Admin Panel.
-5.2. Go to Extensions → Installer.
-5.3. Locate the plugin and click the **Install** button.
-5.4. Switch to configuration mode.
-5.5. Edit the module:
+5.1. Log in to the OpenCart Admin Panel.  
+5.2. Go to Extensions → Installer.  
+5.3. Locate the plugin and click the **Install** button.  
+5.4. Switch to configuration mode.  
+5.5. Edit the module:  
     * Fill in the required fields in the form
     * Click **Save**
 
@@ -59,15 +59,15 @@
 
 ### 6.1. Remove via Admin Panel
 
-6.1.1. Log in to the OpenCart Admin Panel.
-6.1.2. Navigate to the payment modules section:
-    * Extensions → Payments
-6.1.3. Locate the plugin and click **Uninstall**.
-    ![remove module](img/remove_module.png)
+6.1.1. Log in to the OpenCart Admin Panel.  
+6.1.2. Navigate to the payment modules section:  
+    * Extensions → Payments  
+6.1.3. Locate the plugin and click **Uninstall**.  
+    ![remove module](img/remove_module.png)  
 
-### 6.2. Manually Delete Plugin Files
+### 6.2. Manually Delete Plugin Files  
 
-Remove the following files manually:
+Remove the following files manually:  
 
 * `admin/controller/payment/payneteasy_form.php`
 * `admin/language/english/payment/payneteasy_form.php`
@@ -85,27 +85,27 @@ Remove the following files manually:
 
 ## 7. User Registration
   
-7.1. Click the **My Account** button at the top of the main page. In the dropdown menu, select **Register** to open the User Registration page.
+7.1. Click the **My Account** button at the top of the main page. In the dropdown menu, select **Register** to open the User Registration page.  
 
 <img src="/images/opencart-register-1.png" width=60% height=60%>
 
-7.2. On the **Register Account** page, fill in all required personal information, set your password, agree to the _Privacy Policy_, and click the **Continue** button.
+7.2. On the **Register Account** page, fill in all required personal information, set your password, agree to the _Privacy Policy_, and click the **Continue** button.  
 
 <img src="/images/opencart-register-2.png" width=60% height=60%> <img src="/images/opencart-register-3.png" width=60% height=60%>
 
 ## 8. Payment Flow
 
-8.1. Navigate to the desired product category (e.g., Phones & PDAs). Select a product and click the **Add to Cart** button.
+8.1. Navigate to the desired product category (e.g., Phones & PDAs). Select a product and click the **Add to Cart** button.  
 
 <img src="/images/opencart-1-upd.png" width=60% height=60%> <img src="/images/opencart-2.png" width=60% height=60%> <img src="/images/opencart-3.png" width=60% height=60%>
   
-8.2. After adding the item to the cart, a success message will appear. Click the **Shopping Cart** button and choose:
+8.2. After adding the item to the cart, a success message will appear. Click the **Shopping Cart** button and choose:   
    * **View Cart** to review the cart contents
    * **Checkout** to proceed directly to the checkout
 
 <img src="/images/opencart-4.png" width=60% height=60%> <img src="/images/opencart-5.png" width=60% height=60%> <img src="/images/opencart-6.png" width=60% height=60%>
   
-8.3. On the _Checkout_ page:
+8.3. On the _Checkout_ page:  
    * Fill in the required _Shipping Address_.
    * Choose a _Shipping Method_ and a _Payment Method_.
    * In the Payment Method Options pop-up, select the _PaynetEasy payment method_.
@@ -115,7 +115,7 @@ Remove the following files manually:
 <img src="/images/opencart-8-2.png" width=60% height=60%> <img src="/images/opencart-10.png" width=60% height=60%>
 <img src="/images/opencart-11.png" width=60% height=60%>
 
-8.4. On the _PaynetEasy Payment Form_, enter your credit card details. Click **Process Payment** and wait for the transaction to complete.
+8.4. On the _PaynetEasy Payment Form_, enter your credit card details. Click **Process Payment** and wait for the transaction to complete.  
 
 <img src="/images/opencart-12.png" width=60% height=60%>
 <img src="/images/opencart-13.png" width=60% height=60%>
