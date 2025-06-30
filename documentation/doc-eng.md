@@ -61,9 +61,10 @@
 
 6.1.1. Log in to the OpenCart Admin Panel.  
 6.1.2. Navigate to the payment modules section:  
-    * Extensions → Payments  
+    * Extensions → Installer
 6.1.3. Locate the plugin and click **Uninstall**.  
-    ![remove module](img/remove_module.png)  
+
+<img src="/images/opencart-delete-1.png" width=60% height=60%>
 
 ### 6.2. Manually Delete Plugin Files  
 
