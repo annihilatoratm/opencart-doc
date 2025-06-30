@@ -34,6 +34,7 @@
 
 
 ## 3. Package Build
+
 3.1. [Install the composer](http://getcomposer.org/doc/00-intro.md).
 3.2. Clone the plugin repository: `composer create-project payneteasy/php-plugin-opencart --stability=dev --prefer-dist`.
 3.3. Navigate to the plugin directory: `cd php-plugin-opencart`.
@@ -55,12 +56,13 @@
     * Click **Save**
 
 ## 6. Plugin Uninstallation
+
 ### 6.1. Remove via Admin Panel
 
 6.1.1. Log in to the OpenCart Admin Panel.
 6.1.2. Navigate to the payment modules section:
     * Extensions → Payments
-6.1.3. ![Locate the plugin and click **Uninstall**](img/go_to_payment_modules.png) (arrow #1)
+6.1.3. Locate the plugin and click **Uninstall**.
     ![remove module](img/remove_module.png)
 
 ### 6.2. Manually Delete Plugin Files
@@ -81,40 +83,40 @@ Remove the following files manually:
 * `vendor/payneteasy/`
 * `vendor/autoload.php`
 
-  ## 7. User Registration
+## 7. User Registration
   
-  7.1. Click the **My Account** button at the top of the main page. In the dropdown menu, select **Register** to open the User Registration page.
+7.1. Click the **My Account** button at the top of the main page. In the dropdown menu, select **Register** to open the User Registration page.
 
-  <img src="/images/opencart-register-1.png" width=60% height=60%>
+<img src="/images/opencart-register-1.png" width=60% height=60%>
 
-  7.2. On the **Register Account** page, fill in all required personal information, set your password, agree to the _Privacy Policy_, and click the **Continue** button.
+7.2. On the **Register Account** page, fill in all required personal information, set your password, agree to the _Privacy Policy_, and click the **Continue** button.
 
-  <img src="/images/opencart-register-2.png" width=60% height=60%> <img src="/images/opencart-register-3.png" width=60% height=60%>
+<img src="/images/opencart-register-2.png" width=60% height=60%> <img src="/images/opencart-register-3.png" width=60% height=60%>
 
-  ## 8. Payment Flow
+## 8. Payment Flow
 
-  8.1. Navigate to the desired product category (e.g., Phones & PDAs). Select a product and click the **Add to Cart** button.
+8.1. Navigate to the desired product category (e.g., Phones & PDAs). Select a product and click the **Add to Cart** button.
 
-  <img src="/images/opencart-1-upd.png" width=60% height=60%> <img src="/images/opencart-2.png" width=60% height=60%> <img src="/images/opencart-3.png" width=60% height=60%>
+<img src="/images/opencart-1-upd.png" width=60% height=60%> <img src="/images/opencart-2.png" width=60% height=60%> <img src="/images/opencart-3.png" width=60% height=60%>
   
-  8.2. After adding the item to the cart, a success message will appear. Click the **Shopping Cart** button and choose:
-     * **View Cart** to review the cart contents
-     * **Checkout** to proceed directly to the checkout
+8.2. After adding the item to the cart, a success message will appear. Click the **Shopping Cart** button and choose:
+   * **View Cart** to review the cart contents
+   * **Checkout** to proceed directly to the checkout
 
-  <img src="/images/opencart-4.png" width=60% height=60%> <img src="/images/opencart-5.png" width=60% height=60%> <img src="/images/opencart-6.png" width=60% height=60%>
+<img src="/images/opencart-4.png" width=60% height=60%> <img src="/images/opencart-5.png" width=60% height=60%> <img src="/images/opencart-6.png" width=60% height=60%>
   
-  8.3. On the _Checkout_ page:
-     * Fill in the required _Shipping Address_.
-     * Choose a _Shipping Method_ and a _Payment Method_.
-     * In the Payment Method Options pop-up, select the _PaynetEasy payment method_.
-     * Click **Place Order** to continue.
+8.3. On the _Checkout_ page:
+   * Fill in the required _Shipping Address_.
+   * Choose a _Shipping Method_ and a _Payment Method_.
+   * In the Payment Method Options pop-up, select the _PaynetEasy payment method_.
+   * Click **Place Order** to continue.
 
-  <img src="/images/opencart-7.png" width=60% height=60%> <img src="/images/opencart-9.png" width=60% height=60%>
-  <img src="/images/opencart-8-2.png" width=60% height=60%> <img src="/images/opencart-10.png" width=60% height=60%>
-  <img src="/images/opencart-11.png" width=60% height=60%>
+<img src="/images/opencart-7.png" width=60% height=60%> <img src="/images/opencart-9.png" width=60% height=60%>
+<img src="/images/opencart-8-2.png" width=60% height=60%> <img src="/images/opencart-10.png" width=60% height=60%>
+<img src="/images/opencart-11.png" width=60% height=60%>
 
-  8.4. On the _PaynetEasy Payment Form_, enter your credit card details. Click **Process Payment** and wait for the transaction to complete.
+8.4. On the _PaynetEasy Payment Form_, enter your credit card details. Click **Process Payment** and wait for the transaction to complete.
 
-  <img src="/images/opencart-12.png" width=60% height=60%>
-  <img src="/images/opencart-13.png" width=60% height=60%>
-  <img src="/images/opencart-14.png" width=60% height=60%>
+<img src="/images/opencart-12.png" width=60% height=60%>
+<img src="/images/opencart-13.png" width=60% height=60%>
+<img src="/images/opencart-14.png" width=60% height=60%>
