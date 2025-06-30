@@ -35,7 +35,7 @@
 
 ## 3. Package Build
 
-3.1. [Install the composer](http://getcomposer.org/doc/00-intro.md).
+3.1. [Install the composer](http://getcomposer.org/doc/00-intro.md).\n
 3.2. Clone the plugin repository: `composer create-project payneteasy/php-plugin-opencart --stability=dev --prefer-dist`.
 3.3. Navigate to the plugin directory: `cd php-plugin-opencart`.
 3.4. Build the plugin archive: `composer archive --format=zip`.
