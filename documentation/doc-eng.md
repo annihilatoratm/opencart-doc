@@ -1,13 +1,13 @@
 # PaynetEasy Payment Plugin for OpenCart 1.x
 
-# 1. Requirements 
-# 2. Functionality
-# 3. Package Build
-# 4. Installation
-# 5. Plugin Configuration
-# 6. Plugin Uninstallation
-# 7. User Registration
-# 8. Payment Flow
+# 1. [Requirements](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#1-requirements-1)
+# 2. [Functionality](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#2-functionality-1)
+# 3. [Package Build](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#3-package-build-1)
+# 4. [Installation](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#4-installation-1)
+# 5. [Plugin Configuration](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#5-plugin-configuration-1)
+# 6. [Plugin Uninstallation](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#6-plugin-uninstallation-1)
+# 7. [User Registration](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#7-user-registration-1)
+# 8. [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/documentation/doc-eng.md#8-payment-flow-1)
 
 ## 1. Requirements
 
