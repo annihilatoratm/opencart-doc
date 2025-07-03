@@ -17,21 +17,7 @@
 
 ## 2. Functionality
 
-[Connecting Party PaynetEasy API](http://wiki.payneteasy.com/index.php/PnE:Merchant_API).
-- [ ] [Sale Transactions](http://wiki.payneteasy.com/index.php/PnE:Sale_Transactions)
-- [ ] [Preauth/Capture Transactions](http://wiki.payneteasy.com/index.php/PnE:Preauth/Capture_Transactions)
-- [ ] [Transfer Transactions](http://wiki.payneteasy.com/index.php/PnE:Transfer_Transactions)
-- [ ] [Return Transactions](http://wiki.payneteasy.com/index.php/PnE:Return_Transactions)
-- [ ] [Recurrent Transactions](http://wiki.payneteasy.com/index.php/PnE:Recurrent_Transactions)
-- [x] [Payment Form Integration](http://wiki.payneteasy.com/index.php/PnE:Payment_Form_integration)
-- [ ] [Buy Now Button integration](http://wiki.payneteasy.com/index.php/PnE:Buy_Now_Button_integration)
-- [ ] [eCheck integration](http://wiki.payneteasy.com/index.php/PnE:eCheck_integration)
-- [ ] [Western Union Integration](http://wiki.payneteasy.com/index.php/PnE:Western_Union_Integration)
-- [ ] [Bitcoin Integration](http://wiki.payneteasy.com/index.php/PnE:Bitcoin_integration)
-- [ ] [Loan Integration](http://wiki.payneteasy.com/index.php/PnE:Loan_integration)
-- [ ] [Qiwi Integration](http://wiki.payneteasy.com/index.php/PnE:Qiwi_integration)
-- [ ] [Merchant Callbacks](http://wiki.payneteasy.com/index.php/PnE:Merchant_Callbacks)
-
+- [Payment Form Integration](https://doc.payneteasy.eu/integration/api_use_cases/sale_form.html)
 
 ## 3. Package Build
 
